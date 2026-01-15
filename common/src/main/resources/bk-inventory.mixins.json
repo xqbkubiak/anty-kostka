@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "pl.anty.kostka.bkinventory.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "ScreenHandlerAccessor",
+        "HandledScreenMixin",
+        "HandledScreenAccessor"
+    ],
+    "client": [],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,17 @@
+.gradle/
+build/
+bin/
+out/
+*.class
+*.log
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.jar
+!gradle-wrapper.jar
+/BK-Inventory-Builds/
